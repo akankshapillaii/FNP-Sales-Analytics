@@ -1,4 +1,4 @@
-# 🎁 FNP (Ferns N Petals) | Sales & Customer Analytics
+# <h1><img src="Preview/Logo.jpg" height="32"> FNP | Sales & Customer Analytics</h1>
 
 > **A data-driven analysis of FNP's 2023 sales performance, product demand, customer behavior, and occasion-driven revenue to uncover actionable business insights.**
 
@@ -39,8 +39,6 @@ The analysis transforms transactional data into business insights across **sales
 - Geographic Analysis
 - Key Business Findings
 - Recommendations
-- Analytical Approach
-- Analytical Considerations
 
 ---
 
@@ -49,7 +47,7 @@ The analysis transforms transactional data into business insights across **sales
 The dashboard provides a consolidated view of FNP's sales performance across **time, products, categories, occasions, and locations**.
 
 <p align="center">
-  <img src="images/fnp-sales-dashboard.png" alt="FNP Sales Dashboard" width="900">
+  <img src="Preview/Dashboard.png">
 </p>
 
 ---
@@ -68,7 +66,7 @@ The analysis focuses on the following business questions:
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 The analysis combines three core datasets:
 
@@ -85,7 +83,7 @@ The analysis combines three core datasets:
 
 ---
 
-# 📈 Sales Performance
+# Sales Performance
 
 FNP generated **₹35.21L in revenue across 1,000 orders** during 2023.
 
@@ -107,7 +105,7 @@ FNP generated **₹35.21L in revenue across 1,000 orders** during 2023.
 | January | ₹0.95L |
 
 <p align="center">
-  <img src="images/monthly-sales.png" alt="Monthly Sales Performance" width="850">
+  <img src="Preview/Monthly-Sales-Performance.png" alt="Monthly Sales Performance">
 </p>
 
 ### Finding
@@ -118,7 +116,7 @@ Together, these two months contributed approximately **41% of annual revenue**, 
 
 ---
 
-# 🏷️ Category Performance
+# Category Performance
 
 Product categories show substantial differences in their contribution to overall revenue.
 
@@ -133,7 +131,7 @@ Product categories show substantial differences in their contribution to overall
 | Mugs | ₹2.01L |
 
 <p align="center">
-  <img src="images/category-performance.png" alt="Category Performance" width="850">
+  <img src="Preview/Category-Performance.png" alt="Category Performance">
 </p>
 
 ### Finding
@@ -146,7 +144,7 @@ The top three categories together generated approximately **70% of total revenue
 
 ---
 
-# 🎉 Occasion Analysis
+# Occasion Analysis
 
 Occasion-based purchasing represents an important part of FNP's sales model.
 
@@ -161,7 +159,7 @@ Occasion-based purchasing represents an important part of FNP's sales model.
 | Diwali | ₹3.14L |
 
 <p align="center">
-  <img src="images/occasion-performance.png" alt="Occasion Performance" width="850">
+  <img src="Preview/Occassion-Performance.png" alt="Occasion Performance">
 </p>
 
 ### Finding
@@ -172,7 +170,7 @@ The top four occasions — Anniversary, Raksha Bandhan, All Occasions, and Holi 
 
 ---
 
-# 🎁 Product Performance
+# Product Performance
 
 The analysis identifies the products contributing the most revenue.
 
@@ -187,7 +185,7 @@ The analysis identifies the products contributing the most revenue.
 | Deserunt Box | ₹0.98L |
 
 <p align="center">
-  <img src="images/top-products.png" alt="Top Products by Revenue" width="850">
+  <img src="Preview/Product-Performance.png" alt="Top Products by Revenue">
 </p>
 
 ### Finding
@@ -198,7 +196,7 @@ The top five products collectively generated approximately **₹5.42L**, represe
 
 ---
 
-# 🌍 Geographic Analysis
+# Geographic Analysis
 
 Orders were distributed across **301 cities**, providing a broad view of customer demand across locations.
 
@@ -218,7 +216,7 @@ Orders were distributed across **301 cities**, providing a broad view of custome
 | Satara | 7 |
 
 <p align="center">
-  <img src="images/city-performance.png" alt="City-wise Order Performance" width="850">
+  <img src="Preview/Geographical-Performance.png" alt="City-wise Order Performance">
 </p>
 
 ### Finding
@@ -229,7 +227,7 @@ The wide geographic spread suggests that FNP's demand is distributed across a la
 
 ---
 
-# 🚚 Delivery Performance
+# Delivery Performance
 
 Average delivery time across the analyzed orders was:
 
@@ -243,7 +241,7 @@ Monitoring delivery duration alongside **occasion, city, and order volume** can 
 
 ---
 
-# 📅 Day-of-Week Performance
+# Day-of-Week Performance
 
 Revenue varied across the days of the week.
 
@@ -265,35 +263,35 @@ These patterns can be monitored alongside marketing campaigns and promotional ac
 
 ---
 
-# 💡 Key Business Findings
+# Key Business Findings
 
-### 01 — Revenue is concentrated in a few categories
+- **Revenue is concentrated in a few categories:**
 
 **Colors, Soft Toys, and Sweets generated approximately 70% of total revenue**, making these categories major contributors to overall sales.
 
-### 02 — Occasion-driven demand is significant
+- **Occasion-driven demand is significant:**
 
 Anniversary and Raksha Bandhan generated the highest occasion-based revenue, highlighting the importance of occasion-led purchasing.
 
-### 03 — Revenue peaks are highly seasonal
+- **Revenue peaks are highly seasonal:**
 
 August and February recorded the highest monthly revenue, together contributing approximately **41% of annual sales**.
 
-### 04 — A small group of products drives meaningful revenue
+- **A small group of products drives meaningful revenue:**
 
 The top five products generated approximately **₹5.42L**, providing a focused group for inventory and promotional monitoring.
 
-### 05 — Demand is geographically broad
+- **Demand is geographically broad:**
 
 Orders were distributed across **301 cities**, indicating a broad customer footprint rather than dependence on a small number of locations.
 
-### 06 — Delivery performance is an important operational metric
+- **Delivery performance is an important operational metric:**
 
 With an average delivery time of **5.53 days**, delivery efficiency should be monitored alongside high-demand periods and occasion-based orders.
 
 ---
 
-# 🎯 Recommendations
+# Recommendations
 
 ### Strengthen High-Performing Categories
 
@@ -318,26 +316,3 @@ Use city-level order trends to identify locations with recurring demand and alig
 ### Monitor Delivery Performance
 
 Track delivery times by **city, occasion, and demand period** to identify operational bottlenecks and improve the customer experience.
-
----
-
-# 🛠️ Analytical Approach
-
-```text
-Raw Data
-   ↓
-Data Cleaning & Preparation
-   ↓
-Data Consolidation
-   ↓
-Pivot Table Analysis
-   ↓
-Sales & Customer Analysis
-   ↓
-Trend & Category Analysis
-   ↓
-Dashboard Development
-   ↓
-Business Insights
-   ↓
-Recommendations
