@@ -1,6 +1,6 @@
 # <h1><img src="Preview/Logo.jpg" height="32"> FNP | Sales & Customer Analytics</h1>
 
-> **A data-driven analysis of FNP's 2023 sales performance, product demand, customer behavior, and occasion-driven revenue to uncover actionable business insights.**
+> **A data-driven analysis of **Ferns N Petals** (FNP) 2023 sales performance, product demand, customer behavior, and occasion-driven revenue to uncover actionable business insights.**
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analytics-Business%20Insights-blue)
@@ -42,7 +42,7 @@ The analysis transforms transactional data into business insights across **sales
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The dashboard provides a consolidated view of FNP's sales performance across **time, products, categories, occasions, and locations**.
 
@@ -52,7 +52,7 @@ The dashboard provides a consolidated view of FNP's sales performance across **t
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 
 The analysis focuses on the following business questions:
 
@@ -85,145 +85,131 @@ The analysis combines three core datasets:
 
 # Sales Performance
 
-FNP generated **₹35.21L in revenue across 1,000 orders** during 2023.
+FNP generated **₹35.21L in revenue across 1,000 orders during 2023**.
+
+<table>
+<tr>
+<td align="center"><strong>Total Revenue</strong><br><strong>₹35.21L</strong></td>
+<td align="center"><strong>Total Orders</strong><br><strong>1,000</strong></td>
+<td align="center"><strong>Avg. Order Value</strong><br><strong>₹3,521</strong></td>
+<td align="center"><strong>Avg. Delivery</strong><br><strong>5.53 Days</strong></td>
+</tr>
+</table>
 
 ### Monthly Revenue
 
-| Month | Revenue |
-|---|---:|
-| August | ₹7.37L |
-| February | ₹7.05L |
-| March | ₹5.12L |
-| November | ₹4.49L |
-| June | ₹1.58L |
-| October | ₹1.52L |
-| May | ₹1.50L |
-| December | ₹1.50L |
-| April | ₹1.40L |
-| September | ₹1.37L |
-| July | ₹1.36L |
-| January | ₹0.95L |
-
 <p align="center">
-  <img src="Preview/Monthly-Sales-Performance.png" alt="Monthly Sales Performance">
+  <img src="Preview/Monthly-Sales-Performance.png" alt="Monthly Revenue" width="650">
 </p>
 
-### Finding
+### Key Findings
 
-**August generated the highest monthly revenue at ₹7.37L**, followed by February at ₹7.05L.
+- **August recorded the highest monthly revenue at ₹7.37L**, followed by February at ₹7.05L.
 
-Together, these two months contributed approximately **41% of annual revenue**, indicating significant concentration around specific periods of customer demand.
+- Together, these two months contributed approximately **41% of annual revenue**, highlighting strong seasonal concentration in FNP's sales.
 
 ---
 
 # Category Performance
 
-Product categories show substantial differences in their contribution to overall revenue.
+FNP's revenue is concentrated across a few key product categories, with **Colors, Soft Toys, and Sweets** accounting for the majority of sales.
 
-| Category | Revenue |
-|---|---:|
-| Colors | ₹10.06L |
-| Soft Toys | ₹7.41L |
-| Sweets | ₹7.34L |
-| Cake | ₹3.30L |
-| Raksha Bandhan | ₹2.97L |
-| Plants | ₹2.12L |
-| Mugs | ₹2.01L |
+<table>
+<tr>
+<td align="center"><strong>Top Category</strong><br><strong>Colors</strong></td>
+<td align="center"><strong>Top Category Revenue</strong><br><strong>₹10.06L</strong></td>
+<td align="center"><strong>Top 3 Categories</strong><br><strong>~70% of Revenue</strong></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="Preview/Category-Performance.png" alt="Category Performance">
+  <img src="Preview/Category-Performance.png" alt="Revenue by Category" width="650">
 </p>
 
-### Finding
+### Key Findings
 
-**Colors generated the highest revenue at ₹10.06L**, contributing approximately **28.6% of total revenue**.
+- **Colors generated the highest revenue at ₹10.06L**, contributing approximately **28.6% of total revenue**.
 
-Soft Toys and Sweets followed with ₹7.41L and ₹7.34L respectively.
+- **Soft Toys and Sweets** followed with **₹7.41L** and **₹7.34L**, respectively.
 
-The top three categories together generated approximately **70% of total revenue**.
+- Together, the three leading categories generated approximately **70% of total revenue**, highlighting a strong concentration of sales within a small group of product categories.
 
 ---
 
 # Occasion Analysis
 
-Occasion-based purchasing represents an important part of FNP's sales model.
+Occasion-based purchasing is a major revenue driver for FNP, with a small number of occasions contributing a substantial share of total sales.
 
-| Occasion | Revenue |
-|---|---:|
-| Anniversary | ₹6.75L |
-| Raksha Bandhan | ₹6.32L |
-| All Occasions | ₹5.86L |
-| Holi | ₹5.75L |
-| Birthday | ₹4.08L |
-| Valentine's Day | ₹3.32L |
-| Diwali | ₹3.14L |
+<table>
+<tr>
+<td align="center"><strong>Top Occasion</strong><br>Anniversary</td>
+<td align="center"><strong>Top Occasion Revenue</strong><br>₹6.75L</td>
+<td align="center"><strong>Top 4 Occasions</strong><br>~70% of Revenue</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="Preview/Occassion-Performance.png" alt="Occasion Performance">
+  <img src="Preview/Occassion-Performance.png" alt="Revenue by Occasion" width="650">
 </p>
 
-### Finding
 
-**Anniversary orders generated the highest occasion-based revenue at ₹6.75L**, closely followed by Raksha Bandhan at ₹6.32L.
+### Key Findings
 
-The top four occasions — Anniversary, Raksha Bandhan, All Occasions, and Holi — generated approximately **65% of total revenue**.
+- **Anniversary generated the highest occasion-based revenue at ₹6.75L**, closely followed by **Raksha Bandhan at ₹6.32L**.
+
+- **Anniversary, Raksha Bandhan, All Occasions, and Holi** were the four largest contributors, collectively generating approximately **70% of total revenue**.
+
+- This highlights the importance of **occasion-driven demand** in FNP's overall sales performance.
 
 ---
 
 # Product Performance
 
-The analysis identifies the products contributing the most revenue.
+## Product Performance
 
-### Top 5 Products
+A small group of products contributes a meaningful share of FNP's overall revenue, with the top-performing products providing clear opportunities for inventory and promotional focus.
 
-| Product | Revenue |
-|---|---:|
-| Magnam Set | ₹1.22L |
-| Quia Gift | ₹1.14L |
-| Dolores Gift | ₹1.07L |
-| Harum Pack | ₹1.02L |
-| Deserunt Box | ₹0.98L |
+<table>
+<tr>
+<td align="center"><strong>Top Product</strong><br>Magnam Set</td>
+<td align="center"><strong>Top Product Revenue</strong><br>₹1.22L</td>
+<td align="center"><strong>Top 5 Products</strong><br>~15% of Revenue</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="Preview/Product-Performance.png" alt="Top Products by Revenue">
+  <img src="Preview/Product-Performance.png" alt="Top 5 Products by Revenue" width="650">
 </p>
 
-### Finding
+### Key Findings
 
-**Magnam Set generated the highest product-level revenue at ₹1.22L**, followed by Quia Gift at ₹1.14L.
-
-The top five products collectively generated approximately **₹5.42L**, representing around **15% of total revenue**.
+- **Magnam Set generated the highest product-level revenue at ₹1.22L**, followed by **Quia Gift at ₹1.14L**.
+- **Dolores Gift, Harum Pack, and Deserunt Box** were also among the top revenue-generating products.
+- The **top five products collectively generated approximately ₹5.42L**, representing around **15% of total revenue**.
 
 ---
 
 # Geographic Analysis
 
-Orders were distributed across **301 cities**, providing a broad view of customer demand across locations.
+FNP's orders span a broad geographic footprint, with customer demand distributed across **301 cities**.
 
-### Top Cities by Order Volume
-
-| City | Orders |
-|---|---:|
-| Ghaziabad | 9 |
-| Bareilly | 9 |
-| Bhilai | 8 |
-| Darbhanga | 7 |
-| Sirsa | 7 |
-| Bulandshahr | 7 |
-| Ozhukarai | 7 |
-| Varanasi | 7 |
-| Alwar | 7 |
-| Satara | 7 |
+<table>
+<tr>
+<td align="center"><strong>Cities Analyzed</strong><br>301</td>
+<td align="center"><strong>Top Cities</strong><br>Ghaziabad & Bareilly</td>
+<td align="center"><strong>Top City Orders</strong><br>9 Each</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="Preview/Geographical-Performance.png" alt="City-wise Order Performance">
+  <img src="Preview/Geographical-Performance.png" alt="Top 10 Cities by Order Volume" width="650">
 </p>
 
-### Finding
+### Key Findings
 
-**Ghaziabad and Bareilly recorded the highest order volumes with 9 orders each**, while the top 10 cities collectively accounted for **75 orders**.
-
-The wide geographic spread suggests that FNP's demand is distributed across a large number of markets rather than being concentrated in only a few cities.
+- **Ghaziabad and Bareilly recorded the highest order volume with 9 orders each**.
+- The **top 10 cities collectively accounted for 75 orders**, indicating relatively distributed demand across the leading markets.
+- Orders were spread across **301 cities**, suggesting that FNP's customer demand extends across a broad geographic footprint rather than being concentrated in only a few locations.
 
 ---
 
@@ -243,23 +229,25 @@ Monitoring delivery duration alongside **occasion, city, and order volume** can 
 
 # Day-of-Week Performance
 
-Revenue varied across the days of the week.
+Revenue varies across the week, with Tuesday and Sunday generating the strongest sales performance.
 
-| Day | Revenue |
-|---|---:|
-| Tuesday | ₹6.77L |
-| Sunday | ₹6.28L |
-| Friday | ₹4.75L |
-| Monday | ₹4.62L |
-| Saturday | ₹4.45L |
-| Thursday | ₹4.18L |
-| Wednesday | ₹4.15L |
+<table>
+<tr>
+<td align="center"><strong>Top Day</strong><br>Tuesday</td>
+<td align="center"><strong>Top Day Revenue</strong><br>₹6.77L</td>
+<td align="center"><strong>Second Highest</strong><br>Sunday · ₹6.28L</td>
+</tr>
+</table>
 
-### Finding
+<p align="center">
+  <img src="Preview/Revenue by day.png" alt="Revenue by Day" width="650">
+</p>
 
-**Tuesday generated the highest revenue at ₹6.77L**, followed by Sunday at ₹6.28L.
+### Key Findings
 
-These patterns can be monitored alongside marketing campaigns and promotional activity to understand whether specific days consistently generate stronger demand.
+- **Tuesday generated the highest revenue at ₹6.77L**, followed by **Sunday at ₹6.28L**.
+- Tuesday and Sunday together generated approximately **37% of total revenue**.
+- **Wednesday recorded the lowest revenue at ₹4.15L**, indicating a noticeable variation in sales performance across the week.
 
 ---
 
