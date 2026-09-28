@@ -28,17 +28,19 @@ The analysis transforms transactional data into business insights across **sales
 
 ## 📑 Table of Contents
 
-- Executive Overview
-- Dashboard
-- Business Questions
-- Data Overview
-- Sales Performance
-- Category Performance
-- Occasion Analysis
-- Product Performance
-- Geographic Analysis
-- Key Business Findings
-- Recommendations
+- [Executive Overview](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#-executive-overview)
+- [Dashboard](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#dashboard)
+- [Business Questions](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#business-questions)
+- [Data Overview](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#data-overview)
+- [Sales Performance](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#sales-performance)
+- [Category Performance](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#category-performance)
+- [Occasion Analysis](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#occasion-analysis)
+- [Product Performance](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#product-performance)
+- [Geographic Analysis](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#geographic-analysis)
+- [Delivery Performance](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#delivery-performance)
+- [Day-of-Week Performance](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#day-of-week-performance)
+- [Key Business Findings](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#key-business-findings)
+- [Recommendations](https://github.com/akankshapillaii/FNP-Sales-Analytics/tree/main#recommendations)
 
 ---
 
@@ -281,26 +283,26 @@ With an average delivery time of **5.53 days**, delivery efficiency should be mo
 
 # Recommendations
 
-### Strengthen High-Performing Categories
+- **Strengthen High-Performing Categories**
 
 Prioritize inventory availability and promotional visibility for **Colors, Soft Toys, and Sweets**, which together contribute approximately 70% of revenue.
 
-### Plan Around Seasonal Demand
+- **Plan Around Seasonal Demand**
 
 Use historical sales patterns to increase inventory and operational readiness ahead of high-performing periods such as **August and February**.
 
-### Build Occasion-Specific Campaigns
+- **Build Occasion-Specific Campaigns**
 
 Develop targeted campaigns around **Anniversaries, Raksha Bandhan, and Holi**, which represent some of the strongest revenue-generating occasions.
 
-### Monitor High-Performing Products
+- **Monitor High-Performing Products**
 
 Ensure consistent availability of products such as **Magnam Set, Quia Gift, and Dolores Gift**, while evaluating their demand patterns during major occasions.
 
-### Optimize City-Level Operations
+- **Optimize City-Level Operations**
 
 Use city-level order trends to identify locations with recurring demand and align inventory, delivery capacity, and promotional activity accordingly.
 
-### Monitor Delivery Performance
+- **Monitor Delivery Performance**
 
 Track delivery times by **city, occasion, and demand period** to identify operational bottlenecks and improve the customer experience.
